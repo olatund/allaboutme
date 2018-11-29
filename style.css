@@ -1,0 +1,46 @@
+h1{
+    font-family: helvetica;
+    font-size: 40px;
+    color: #555555;
+}
+body{
+    background:#344ece;
+    margin:0;
+    padding:0;
+}
+header{
+    background:#fff;
+    margin:0;
+    position: relative;
+}
+nav{
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+nav li{
+    display: inline-block;
+    
+}
+nav ul{
+    list-style: inline-block;
+}
+nav a{
+    font-size: 18px;
+    background: #000000;
+    color: #ffffff;
+    padding: 10px;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-family: verdana;
+}
+nav a:hover{
+    background:#eee;
+    color:#f00;
+}
+h1{
+    font-family: helvetica;
+    font-size: 40px;
+    color: #666666;
+}
+
