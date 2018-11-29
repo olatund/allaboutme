@@ -9,6 +9,11 @@ body{
     padding:0;
 }
 header{
+    background:#344ece;
+    margin:0;
+    position: relative;
+}
+#2nd {
     background:#fff;
     margin:0;
     position: relative;
